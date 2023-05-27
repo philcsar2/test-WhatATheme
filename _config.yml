@@ -7,13 +7,13 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Dr. Philcsar's Phys-Math Tutorials
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Your guide to physics and math
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: drphilcsar, physics tutorial, math tutorial, philippines
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,32 +22,32 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: drphilcsar@gmail.com
+facebook_username: drphilcsar1
+twitter_username: DrPhilCsar
+# instagram_username: thedevslot
+# linkedin_username: thedevslot
+# github_username:  thedevslot
+youtube_channel_id: UCQZBy6wWX3we3LcENoUfVfA
+# reddit_username: /
+# behance_username: /
+# dribbble_username: /
+# spotify_username: /
 
 # Google Analytics
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: drphilcsar
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Philip Caesar Flores, PhD
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/caricature.jpg
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Welcome to "Dr. Philcsar's Phys-Math Tutorials" YouTube channel! Our mission is to inspire and empower Filipino students to pursue exciting careers in physics by providing engaging and comprehensive tutorials. We believe that everyone has the potential to excel in these subjects, and we're here to guide you every step of the way. Whether you're a high school student preparing for college entrance exams or a college student diving into advanced concepts, our channel is your go-to resource. We offer clear explanations, practical examples, and problem-solving strategies to help you master physics and math. Through our tutorials, we aim to demystify complex topics, making them accessible and enjoyable for all. We understand the challenges that Filipino students face in their academic journey, and we're committed to providing tailored content that addresses those specific needs. Our video library covers a wide range of subjects, including algebra, geometry, calculus, mechanics, and more. We break down each concept into digestible pieces, guiding you through the fundamental principles and building your knowledge from the ground up. Additionally, we offer tips and tricks to tackle challenging problems and enhance your problem-solving skills.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://philcsar2.github.io
 
 # SASS
 sass:
